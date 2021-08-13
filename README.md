@@ -8,7 +8,7 @@ It also has holes for mounting an RJ12 6P6C jack for the microphone and a rocker
   
 To use this you will need:  
 1-Yaesu FT-8900 or FT-8800 (I would love to hear from people with the various Chinese clones of these radios, TYT TH-9800, etc... to find out if they fit too)  
-1-Single DINN car stereo  
+1-Single DINN car stereo - I used a very cheap one because I would like to build my own RaspberryPi based radio to replace it with eventually but any single DINN should do   
 1-Metra 95-7877 double DINN stereo installation kit for the Honda Fit  
 1-RJ12 6p6c jack - I used this one https://www.amazon.com/dp/B07KYRH49T?psc=1&ref=ppx_yo2_dt_b_product_details  
 1-Power Relay  
