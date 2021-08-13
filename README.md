@@ -1,5 +1,7 @@
 # FT8900_09Fit
 
+![Mounted in Car](mounted_inside.jpg) ![Back View](back.jpg) ![Mounted outside Car](mounted_outside.jpg)
+
 This is a mount for installing both a Yaesu FT-8900 or FT-8800 amateur radio and a standard single DIN stereo in a 2009-2013 Honda Fit.
 This bracket snaps inside of an adapter which normally allows a double DIN stereo to be installed in place of the stock unit.
 It also has holes for mounting an RJ12 6P6C jack for the microphone and a rocker switch which I use to run the radios without the key in the ignition.  
@@ -35,3 +37,5 @@ I am thinking of adding a couple of screw holes below where the ham radio sticks
 design a cellphone holder that would hang down below the radios. Currently I use a clip-on holder that clips to the air vents above the radios. Having something that is permanently mounted and does not block the vents would be much nicer. Not blowing hot air on my phone in the winter would probably be better for the phone too.  
   
 I also wanted to have mount a USB jack on the front with a charger on the inside. There was no room for this. I could make that an option that takes the place of the switch for people who do not want the switch. If I go with the cellphone mount idea I will probably include a wireless charger and a hole through this model to run the power wire for that.  
+  
+I printed this in black Inland PET-G (Inland is Micro Center's rebranding of eSUN). I have read mixed reviews regarding PET-G holding up to hot car temperatures. It has been in my car for less than a week but already it has made it through a few above 90F (~32C) days closed up in a parking lot with no shade. So far it seems to be just fine. If I do have any problems I will re-print it in ABS and post an update here.  Definitely do not try this with PLA unless your car will never see hot summer weather.  
