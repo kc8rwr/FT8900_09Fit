@@ -1,6 +1,6 @@
 # FT8900_09Fit
 
-This is a mount for installing both a Yaesu FT-8900R amateur radio and a standard single DIN stereo in a 2009-2013 Honda Fit.
+This is a mount for installing both a Yaesu FT-8900 or FT-8800 amateur radio and a standard single DIN stereo in a 2009-2013 Honda Fit.
 This bracket snaps inside of an adapter which normally allows a double DIN stereo to be installed in place of the stock unit.
 It also has holes for mounting an RJ12 6P6C jack for the microphone and a rocker switch which I use to run the radios without the key in the ignition.  
   
